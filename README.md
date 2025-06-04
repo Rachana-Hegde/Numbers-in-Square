@@ -33,25 +33,13 @@ Enter number: 4
   * Inner loop for columns (`j`)
 * In each row, print the value `i + 1` (so row count starts from 1).
 
-## 🧾 Code
-
-```python
-a = int(input("Enter number: "))
-for i in range(a):
-    for j in range(a):
-        print(i + 1, end="")
-    print("")
-```
-
 ## 🛠️ How to Run
 
 1. Save the code in a file, e.g., `numbers_square.py`.
 2. Run the script using Python:
-
 ```bash
 python numbers_square.py
 ```
-
 3. Enter a number when prompted, and the pattern will be displayed.
 
 ## 🎯 Use Case
