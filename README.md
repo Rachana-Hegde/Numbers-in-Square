@@ -71,7 +71,5 @@ python numbers_square.py
 ## 📄 License
 
 This code is available under the **MIT License**.
-Feel free to use, share, and improve!
-
----
+Feel free to use, share, and improve
 
