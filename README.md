@@ -1,7 +1,3 @@
-Here’s a simple and clear **README.md** for your Python program that prints **numbers in a square pattern**:
-
----
-
 # 🔢 Numbers in Square – Python Program
 
 This is a beginner-level Python program that prints a **square pattern of numbers**, where each row contains repeated row numbers. It’s a great exercise for practicing nested `for` loops and understanding pattern printing.
