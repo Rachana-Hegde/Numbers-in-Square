@@ -68,8 +68,7 @@ python numbers_square.py
 
 * Can be extended into more advanced number patterns like triangles, pyramids, etc.
 
-## 📄 License
+## 📬 Contact  
 
-This code is available under the **MIT License**.
-Feel free to use, share, and improve
-
+For any inquiries or feedback, feel free to reach out:    
+🔗 **GitHub**: [Rachana-Hegde](https://github.com/Rachana-Hegde)  
